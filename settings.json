@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "bot",
-    "password": "your_password",
+    "username": "1NF3RN0's pet",
+    "password": "1234",
     "type": "microsoft"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "HAHAHA-H1aY.aternos.me:23032",
+    "port": 23032,
     "version": "1.19.3"
   },
 
